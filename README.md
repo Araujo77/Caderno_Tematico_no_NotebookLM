@@ -2,7 +2,7 @@
 
 
 # Contexto e Objetivo
-Abordei o tema Gabriel Ganley devido a vários fatores, devido a morte repentina do atleta, sua carreira como fisiculturista natural e sua trajetoria com anabolizantes. Gostaria de saber como seria a vida do mesmo se continuasse seguindo a carreira como atleta natural e estivesse vivo. Busquei trazer junto ao tema a possível causa da morte, efeitos e medos que o atleta falava que tinha em relação as substancias que ingeria. Com isso resolvi aproveitar o projeto e explorar o conhecimento de aprendizagem da IA.
+Abordei o tema Gabriel Ganley devido a vários fatores, a morte repentina do atleta, sua carreira como fisiculturista natural e sua trajetoria com anabolizantes. Gostaria de saber como seria a vida do mesmo se continuasse seguindo a carreira como atleta natural e estivesse vivo. Busquei trazer junto ao tema a possível causa da morte, efeitos e medos que o atleta falava que tinha em relação as substancias que ingeria. Com isso resolvi aproveitar o projeto e explorar o conhecimento de aprendizagem da IA.
 
 
 # Curadoria de Fontes
