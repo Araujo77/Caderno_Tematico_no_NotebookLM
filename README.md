@@ -1,5 +1,4 @@
-# Caderno Temático no NotebookLM
-Desafio de Projeto sobre Git/GitHub - Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM
+## Gabriel Ganley - A Queda de Um Sonho
 
 
 # Contexto e Objetivo
