@@ -1,11 +1,11 @@
 ## Gabriel Ganley - A Queda de Um Sonho
 
 
-# Contexto e Objetivo
+# 📝 Contexto e Objetivo
 Abordei o tema Gabriel Ganley devido a vários fatores, a morte repentina do atleta, sua carreira como fisiculturista natural e sua trajetoria com anabolizantes. Gostaria de saber como seria a vida do mesmo se continuasse seguindo a carreira como atleta natural e estivesse vivo. Busquei trazer junto ao tema a possível causa da morte, efeitos e medos que o atleta falava que tinha em relação as substancias que ingeria. Com isso resolvi aproveitar o projeto e explorar o conhecimento de aprendizagem da IA.
 
 
-# Curadoria de Fontes
+# 📌 Curadoria de Fontes
 
 Fontes em Texto:
 
@@ -45,7 +45,7 @@ As fontes abordam a trajetória e a morte precoce do fisiculturista Gabriel Gunl
 ## A Era Natural:
 Durante a maior parte de sua trajetória, Ganley foi um atleta natural. Ele se destacava não apenas pelo físico, mas pela intensidade e pelo "sangue no olho" que demonstrava nos treinos, acreditando que o esforço venceria o talento.
 
-##Transição para o Hormonizado e Conflito Interno: 
+## 🧪Transição para o Hormonizado e Conflito Interno: 
 Recentemente, ele decidiu deixar de ser natural para buscar o nível profissional. No entanto, essa mudança trouxe um "medo absurdo" de realizar exames médicos, temendo que qualquer diagnóstico o impedisse de realizar seu sonho de ser atleta.
 
 ## O Desfecho Trágico: 
