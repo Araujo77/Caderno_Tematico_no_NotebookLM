@@ -83,7 +83,7 @@ O plano deveria priorizar a qualidade do sono e a periodização do treino para 
 Ao se manter natural e focar na disciplina e resiliência, Ganley poderia atrair grandes marcas globais (como Nike ou Adidas) que evitam se associar a escândalos de doping, mas buscam ídolos que transmitem saúde e superação. Ressignificação da Performance: Entender que a verdadeira performance é aquela que permite ao atleta estar vivo e saudável aos 40 ou 50 anos, evitando "queimar a largada" com abusos químicos na juventude.
 
 
-## Miniguia de Estudo (ENTREGA FINAL)
+## Miniguia de Estudo (🚀ENTREGA FINAL)
 [A Queda de um Sonho](https://notebooklm.google.com/notebook/2e37beab-a712-4697-ad08-d084d17731b2/artifact/c8c1aaa4-ebf6-4b12-9db9-7e2106e5b393?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_2&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_2_)
 
 [Anatomia de uma tragédia.pdf](https://github.com/user-attachments/files/28651231/Anatomia.de.uma.tragedia.pdf)
